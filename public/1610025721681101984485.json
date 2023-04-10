@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "23223404287",
+    "project_id": "pinjaman-online-ojk-legal",
+    "storage_bucket": "pinjaman-online-ojk-legal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23223404287:android:3d210a53e572e800db6eca",
+        "android_client_info": {
+          "package_name": "com.pinjamanonlineojk.pinjolcraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23223404287-cehlbji34gqvr6oosk9ef21urs8d5av2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaBR0PK9Yn9yVtDj12cv_JUkGAi2HUEKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23223404287-cehlbji34gqvr6oosk9ef21urs8d5av2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
